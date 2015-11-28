@@ -1,0 +1,30 @@
+{
+  "name": "superfly-css-component-lead",
+  "version": "0.0.0",
+  "description": "Lead component",
+  "main": "src/main/css/index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/superfly-css/superfly-css-component-lead/"
+  },
+  "keywords": [
+    "css",
+    "style",
+    "component",
+    "lead",
+    "superfly-css"
+  ],
+  "author": "Ole Ersoy",
+  "license": "MIT",
+  "dependencies": {
+    "superfly-css-variables-sizes": "0.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "superfly-css-task-build": "0.0.8",
+    "superfly-css-task-test": "0.0.3"
+  }
+}
